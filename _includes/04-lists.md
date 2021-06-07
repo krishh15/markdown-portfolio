@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Favorite places 
+  * Darjeeling, West Bengal
+  * Leh Ladakh, Jammu & Kashmir 
+  * Dalhousie,  Himachal Pradesh
+* Favorite Musical Instruments
+  * Guitar
+  * Piano
